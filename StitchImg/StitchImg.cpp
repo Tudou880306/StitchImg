@@ -23,6 +23,7 @@ using namespace cv;
 #define SURF_MATCH_CONFIDENCE 0.65f
 #define ORB_MATCH_CONFIDENCE  0.3f
 
+ 
 
 #define DATESET_COUNT 8
 #define METHOD_COUNT 5
