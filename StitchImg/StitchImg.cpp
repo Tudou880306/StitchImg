@@ -47,7 +47,7 @@ static std::string GetParam()
 {
 	return "surf";
 }
-int main()
+int main12()
 {
 	/*
 	vector<Mat> imgs;
